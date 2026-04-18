@@ -1,0 +1,4 @@
+Projrct ideas:
+
+Adaptive mesh solver for efficiency
+Battery cooling system in EV
